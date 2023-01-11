@@ -11,7 +11,7 @@
   {
     "id": "29",
     "name": " Canadian Burger",
-    "propellant": "$550",
+    "propellant": "$545",
     "destination": "Proxima Centauri",
     "imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGl9TbsPA-iB-g0AQF0kzzz64tHbTOTVpQQg&usqp=CAU",
     "technologyexists": "0"
