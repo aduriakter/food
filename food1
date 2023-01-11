@@ -3,7 +3,7 @@
   {
     "id": "28",
     "name": "Russian Burger",
-    "propellant": "$140",
+    "propellant": "$145",
     "destination": "Alpha Centauri A",
     "imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8qr5eTIHXQ1VcLHi9FHKG6XbXs4wLBkJb_A&usqp=CAU",
     "technologyexists": "1"
